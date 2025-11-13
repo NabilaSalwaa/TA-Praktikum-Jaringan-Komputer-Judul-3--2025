@@ -1,6 +1,7 @@
 Packet Tracer: Configure VLANs and Trunking (Physical Mode)
 
 📋 Deskripsi Aktivitas
+
 Aktivitas Packet Tracer ini berfokus pada konfigurasi VLAN (Virtual Local Area Network) dan trunking antara dua switch dalam mode fisik. Tujuannya adalah untuk memahami cara membuat VLAN, menetapkan port switch ke VLAN, mengonfigurasi trunk 802.1Q, dan memverifikasi komunikasi dalam dan antar VLAN.
 
 🎯 Tujuan Pembelajaran:
